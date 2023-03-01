@@ -1,4 +1,4 @@
-# OpenAITools
+# OpenAI
 In this repository are few tools using OpenAI's API to automate study-guides and generate images.
 
 ## chat.py
